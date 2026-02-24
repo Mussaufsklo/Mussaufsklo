@@ -1,9 +1,7 @@
 # Elias Schmidt
 
 B.Sc. Informationssicherheit (THWS Würzburg)  
-Interessen: Penetration Testing, Netzwerkanalyse, Backend-Architektur
-
-Neben dem Studium arbeite ich an praxisnahen Projekten und vertiefe mein Wissen eigenständig im Bereich Offensive Security.
+Interessen: Kryptographie, Penetration Testing, Netzwerksicherheit
 
 ---
 
